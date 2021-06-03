@@ -1,0 +1,13 @@
+*{
+    background-color: #1456da;
+}
+
+img{
+    border: dotted;
+    color: #2e8b57;
+}
+.test{
+    font-size: 35px;
+    font-family:-apple-system;
+    padding: 10px;
+}
